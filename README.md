@@ -59,3 +59,8 @@ In summary, the purpose of the 3 Amigos meeting is to remove uncertainty in the 
 Whereas agile is a development philosophy, scrum is a methodology/framework which aims to put the ideas of agile into an actionable framework.
 
 ![](scrum.png)
+
+The following is a breakdown of the scrum framework:
+* Under scrum, work functions in `sprints`, which can last between 1-4 weeks and at the end of which a potentially shippable product increment should be produced.
+* From the beginning, the `product backlog`
+* 
