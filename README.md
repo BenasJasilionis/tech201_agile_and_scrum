@@ -9,7 +9,7 @@ The Agile manifesto consists of 4 values:
 * Responding to change over following a plan
 
 ![](agile.png)
-Agile can be broken down in more detail bt looking at the 12 principles:
+Agile can be broken down in more detail by looking at the 12 principles:
 1) Highest priority is to satisfy customers through early and continuous delivery of valuable software
 2) Welcome changing requirements, even late in development. Agile processes harness change for the customers competitive advantage
 3) Deliver working software frequently, every couple weeks to months, with a preference for shorter time scales
