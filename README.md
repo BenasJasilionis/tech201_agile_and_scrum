@@ -25,7 +25,7 @@ Agile can be broken down in more detail by looking at the 12 principles:
 
 ## How does agile alongside DevOps benefit a business?
 ![](agiledevop.png)
-* Faster time to market Agile development allows teams to deliver software in small, incremental chunks, getting new features and improvements to customers faster.
+* Faster time to market: Agile development allows teams to deliver software in small, incremental chunks, getting new features and improvements to customers faster.
 * Increased adaptability to change: Agile methodologies prioritize flexibility, which allows teams to respond quickly to changes in customer requirements or market conditions.
 * Improved collaboration and communication: Agile methodologies encourage collaboration and communication among cross-functional teams, which can lead to better decision-making and problem-solving.
 * Improved customer satisfaction:  Agile development allows teams to get feedback from customers early and often, 
@@ -39,17 +39,23 @@ The three Amigo Principle says that the three Amigos; Business Analyst, Develope
 * The Business Analyst details out each of the Business Requirements with the team.
 * The members of the Quality Assurance Team discuss the Test Cases already created for these business requirements.
 * The members of the Development Team discuss the architecture and the low-level design with the team.
+![](3amigos.png.jpg)
 
-The purpose of the 3 Amigos meeting is to remove uncertainty in the development process, and to make sure that all team members know what the expectations are.
 The structure of the meeting can be summarised as such:
 
-1) The meeting starts with the Business Analyst presenting the requirement to the attendees along with the design documents or wireframes. The Business requirement is expected to be well prepared and documented. It is expected from the team to have gone through the requirement already prior to the meeting.
-2) As a next step, the attendees will be reviewing the requirement and providing feedback which will later be incorporated by the Business Analyst. The attendees will also point out to the ambiguities and gaps if any. The Business Analyst is also expected to remove the ambiguities and fill in the gaps in the requirement.
-At times there may be situations, where the Business Analyst may need to confirm queries posted in by the other attendees and may not directly incorporate that review there itself.
+1) The meeting starts with the Business Analyst presenting the requirement to the attendees along with the design documents or wireframes.
+2) As a next step, the attendees will be reviewing the requirement and providing feedback which will later be incorporated by the Business Analyst. The attendees will also point out to the ambiguities and gaps if any. The Business Analyst is also expected to remove the ambiguities.
 3) Once the requirement is groomed enough and the attendees have no more feedback or open questions, the requirement is marked as ‘Ready’.
-4) Next, the test cases are presented to the Attendees just like the requirements. Test cases are expected to be well-formed and prepared already.
-5) The attendees will now be reviewing the test cases and providing feedback. The QA member will incorporate all the suggestions provided. The Attendees would also point to the missed test cases and the edge case scenarios. The main objective here remains that the test cases should meet all the Acceptance Criteria and have a good test coverage.
+4) Next, the test cases are presented to the Attendees just like the requirements.
+5) The attendees will now be reviewing the test cases and providing feedback. The QA member will incorporate all the suggestions provided. The Attendees would also point to the missed test cases and the edge case scenarios.
 6) The next step is to look at the dependencies and pre-requisites that might have come out during the session.
 7) The dependencies are determined and the action items are created and assigned to the relevant team member. Similarly, the tasks for pre-requisites are created and assigned.
 8) All the artifacts (Requirement, Test cases, tasks, dependencies) mentioned above should be kept in a Project Management Tool like JIRA so that everyone can easily access them.
-9) If there are too many review comments, the Business Analyst and the Quality Assurance Engineer may choose to incorporate them after the session
+9) If there are too many review comments, the Business Analyst and the Quality Assurance Engineer may choose to incorporate them after the session.
+
+In summary, the purpose of the 3 Amigos meeting is to remove uncertainty in the development process, and to make sure that all team members know what the expectations are
+
+# What is scrum?
+Whereas agile is a development philosophy, scrum is a methodology/framework which aims to put the ideas of agile into an actionable framework.
+
+![](scrum.png)
