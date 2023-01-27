@@ -73,3 +73,4 @@ The following is a breakdown of the scrum framework:
 ## Scrum team and roles
 
 ![](scrum_team.png)
+scrum
