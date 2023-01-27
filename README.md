@@ -62,5 +62,14 @@ Whereas agile is a development philosophy, scrum is a methodology/framework whic
 
 The following is a breakdown of the scrum framework:
 * Under scrum, work functions in `sprints`, which can last between 1-4 weeks and at the end of which a potentially shippable product increment should be produced.
-* From the beginning, the `product backlog`
-* 
+* `Product Backlog`: Contains all the requirements for the project. May also contain leftovers from a previous sprint.
+* `Sprint Planning`: Selecting requirements to work on for a given sprint.
+* `Sprint Backlog`: All the requirements selected for a given sprint.
+* `Daily Scrum`: A roughly 15-min daily meeting which aims to catch everyone up to speed with how the project is progressing.
+* `Sprint Review`: Held at the end of a sprint, an opportunity for the scrum team to showcase what was accomplished and for the shareholders to give feedback
+* `Sprint Retrospective`: A chance to reflect and prepare for the next sprint. Commonly answered questions are: What went well? What didn't go well? What can be improved and how?
+* `Increment`: A potentially shippable product increment (for example, the website chat now also has emojis) which is provided to the shareholders at the end of a sprint.
+
+## Scrum team and roles
+
+![](scrum_team.png)
